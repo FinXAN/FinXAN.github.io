@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My GitHub Page
 
-Hello! I'm FinXAN, a second-year Electronic Engineering student at the University of Manchester, with interests in embedded systems, programming, and circuit design.
+Hello! I'm FinXAN, a Electronic Engineering, with interests in embedded systems, programming, and circuit design.
 
 ### Projects
 
