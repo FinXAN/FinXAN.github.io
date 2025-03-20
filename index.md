@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My GitHub Page
 
-Hello! I'm FinXAN, a Electronic Engineering, with interests in embedded systems, programming, and circuit design.
+Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vision, embedded System adn Robotics.
 
 ### Projects
 
@@ -14,9 +14,9 @@ Hello! I'm FinXAN, a Electronic Engineering, with interests in embedded systems,
 
 ### Skills
 
-- **Programming Languages**: C, MATLAB, VHDL
+- **Programming Languages**: Python, Pytorch, Simulink, VHDL
 - **Tools**: KiCad, SolidWorks, MATLAB/Simulink
 
 ### Contact
 
-Connect with me on [GitHub](https://github.com/FinXAN) or reach out via [email](mailto:your-email@example.com).
+Connect with me on [GitHub](https://github.com/FinXAN) or reach out via [email](arthur.fang@hotmail.com).
