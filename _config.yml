@@ -11,6 +11,6 @@ navigation:
   - title: Projects
     url: ./projects
   - title: Yolo on Raspberry Pi
-    url: ./Project/Yolo on Raspberry Pi.md
+    url: ./Project/Yolo on Rasberry Card
   - title: Card Classification with PyTorch
-    url: ./Project/fine-tuning-card-classification
+    url: ./Project/Classification With Pytorch
