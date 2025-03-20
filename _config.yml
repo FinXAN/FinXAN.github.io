@@ -1,3 +1,19 @@
 remote_theme: pages-themes/architect@v0.2.0
+
+navigation:
+  - title: Home
+    url: 
+  - title: Project
+    url: /Project.md
+  - title: Yolo on Raspberry Pi
+    url: 
+  - title: Card Classification with PyTorch
+    url: 
+  - title: Contact
+    url: 
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+
+
