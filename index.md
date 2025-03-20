@@ -7,7 +7,7 @@ title: Home
 
 Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vision, embedded System adn Robotics.
 
-### Projects
+### [Projects](./project.md)
 
 - **[Yolo on Rasberry Pi](./Project/Card Classification With Pytorch)**: A project involving PID control for a line-tracking buggy using STM32.
 - **[Sensor Lab Experiments](./Project/Yolo on Rasberry)**: Studies on LED and photoresistor sensors for tracking and detection.
