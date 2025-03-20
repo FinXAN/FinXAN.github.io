@@ -9,12 +9,12 @@ Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vi
 
 ### [Projects](./project.md)
 
-- **[Yolo on Rasberry Pi](./Project/Card Classification With Pytorch)**: A project involving PID control for a line-tracking buggy using STM32.
-- **[Sensor Lab Experiments](./Project/Yolo on Rasberry)**: Studies on LED and photoresistor sensors for tracking and detection.
+- **[Card Classification with Pytorch](./Project/Card Classification With Pytorch)**: A project implementation of YOLO on Rasberry for Capturing Train Timetable.
+- **[Yolo on Rasberry Pi](./Project/Yolo on Rasberry)**: Studies on LED and photoresistor sensors for tracking and detection.
 
 ### Skills
 
-- **Programming Languages**: Python, Pytorch, Simulink, ROS2
+- **Programming Languages**: Python:{Pytorch, numpy, OpenCV...}, ROS2
 - **Tools**: KiCad, SolidWorks, MATLAB/Simulink
 
 ### Contact
