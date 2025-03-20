@@ -14,7 +14,7 @@ Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vi
 
 ### Skills
 
-- **Programming Languages**: Python, Pytorch, Simulink, VHDL
+- **Programming Languages**: Python, Pytorch, Simulink, ROS2
 - **Tools**: KiCad, SolidWorks, MATLAB/Simulink
 
 ### Contact
