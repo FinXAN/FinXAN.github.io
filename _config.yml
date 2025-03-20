@@ -1,19 +1,18 @@
+title: My GitHub Page
+description: Personal portfolio and projects
+
 remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
 navigation:
   - title: Home
-    url: 
-  - title: Project
-    url: /Project.md
+    url: /
+  - title: Projects
+    url: /projects
   - title: Yolo on Raspberry Pi
-    url: 
+    url: /yolo-on-raspberry-pi
   - title: Card Classification with PyTorch
-    url: 
+    url: /fine-tuning-card-classification
   - title: Contact
-    url: 
-
-plugins:
-- jekyll-remote-theme
-
-
-
+    url: /contact
