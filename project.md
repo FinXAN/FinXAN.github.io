@@ -23,7 +23,7 @@ The **YOLO (You Only Look Once)** object detection algorithm is implemented on a
 - **OpenCV**
 - **Python**
 
-For the full project and code, check out the [GitHub repository](https://github.com/your-repo-link).
+For the full project and code, check out the [GitHub repository](./Project/Yolo on Rasberry).
 
 ---
 
@@ -43,7 +43,7 @@ In this project, I developed a **card classification model** using **PyTorch**. 
 - **Python**
 - **NumPy**
 
-For the complete project and code, visit the [GitHub repository](https://github.com/your-repo-link).
+For the complete project and code, visit the [GitHub repository](./Project/Yolo on Rasberry).
 
 ---
 
