@@ -9,10 +9,8 @@ navigation:
   - title: Home
     url: /
   - title: Projects
-    url: /projects
+    url: ./projects
   - title: Yolo on Raspberry Pi
-    url: /yolo-on-raspberry-pi
+    url: ./Project/Yolo on Raspberry Pi.md
   - title: Card Classification with PyTorch
-    url: /fine-tuning-card-classification
-  - title: Contact
-    url: /contact
+    url: ./Project/fine-tuning-card-classification
