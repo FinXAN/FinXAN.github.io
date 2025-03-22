@@ -12,8 +12,3 @@ The classification improves significantly over 25 epochs.
 
 # Prediction Example
 [prediction](./img/Example_Prediction.png)
-
-
-# Try yourself
-I have also attached a python file for doing the prediction: 
-
