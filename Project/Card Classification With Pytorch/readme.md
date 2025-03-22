@@ -12,3 +12,8 @@ The classification improves significantly over 25 epochs.
 
 # Prediction Example
 [prediction](./img/Example_Prediction.png)
+
+# Specific Document
+The actual notebook can be accessed here:
+[notebook](./Fine_Tunning_Example_Card_Classification.ipynb)
+
