@@ -15,5 +15,5 @@ The classification improves significantly over 25 epochs.
 
 
 # Try yourself
-I have also attached a python filr for doing the prediction: 
+I have also attached a python file for doing the prediction: 
 
