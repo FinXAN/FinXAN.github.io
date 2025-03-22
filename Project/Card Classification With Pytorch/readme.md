@@ -4,3 +4,16 @@ Transfer learning based on pretrained model, ResNet50 is used this case, feel fr
 # Data Strcutre
 The most common and used dataset strcture looks as below, a visio graph shows the format
 [data_structure](./img/PixPin_2025-03-22_11-38-27.png)
+
+# Training Result
+Training Accuracy Improvement over Epoch. 
+The classification improves significantly over 25 epochs.
+[result](./img/accuracy_curve.png)
+
+# Prediction Example
+[prediction](./img/Example_Prediction.png)
+
+
+# Try yourself
+I have also attached a python filr for doing the prediction: 
+
