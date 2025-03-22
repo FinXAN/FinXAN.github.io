@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My GitHub Page
 
-Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vision, embedded System adn Robotics.
+Hello! I'm Xin, an Electronic Engineering student, with interests in computer Vision, embedded System and Robotics.
 
 ### [Projects](./project.md)
 
