@@ -3,4 +3,4 @@ Transfer learning based on pretrained model, ResNet50 is used this case, feel fr
 
 # Data Strcutre
 The most common and used dataset strcture looks as below, a visio graph shows the format
-[data_structure](Project/Card Classification With Pytorch/img/PixPin_2025-03-22_11-38-27.png)
+[data_structure](./img/PixPin_2025-03-22_11-38-27.png)
