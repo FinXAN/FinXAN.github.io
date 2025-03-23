@@ -77,7 +77,7 @@ def generate_timetable(directory, output_file):
     writer.close()
     print(f"Timetable saved to {output_file}")
 
-
+## Example:
 directory = "./data_set" 
 output_file = "train_timetable.xlsx"
 
