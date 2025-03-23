@@ -3,8 +3,8 @@ Apply yolo11n model on rasberry pi for capturing train timetable between Manches
 
 # Example output
 The example output of a captured train screen shoot looks as below. Notice, it is not used for the dataset. Feel free to change the save function position for getting the two example outputs.
-[example_1](./Example_1)
-[example_2](./Example_2)
+[example_1](./Example_1.png)
+[example_2](./Example_2.jpg)
 The code is below:
 [Train_capture_Code](./Yolo_Rasberry_TrainRecording.py)
 
