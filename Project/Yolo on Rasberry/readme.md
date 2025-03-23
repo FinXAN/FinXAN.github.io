@@ -7,6 +7,7 @@ The example output of a captured train screen shoot looks as below. Notice, it i
 [example_1](./Example_1.png)
 
 [example_2](./Example_2.jpg)
+
 The code is below:
 [Train_capture_Code](./Yolo_Rasberry_TrainRecording.py)
 
