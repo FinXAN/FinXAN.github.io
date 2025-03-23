@@ -17,3 +17,5 @@ The actual notebook can be accessed here:
 [notebook](./Fine_Tunning_Example_Card_Classification.ipynb)  
 Or check the link:  
 https://github.com/FinXAN/FinXAN.github.io/blob/main/Project/Card%20Classification%20With%20Pytorch/Fine_Tunning_Example_Card_Classification.ipynb
+
+# [Other Project](../../project.md)
